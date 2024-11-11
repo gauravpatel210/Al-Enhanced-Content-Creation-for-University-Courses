@@ -1,0 +1,2 @@
+# Al-Enhanced Content Creation for University Courses
+ In today's digital education landscape, the need for original and high-quality content is critical. This project leverages AI to enhance the creation of university course materials, focusing on generating content that is both engaging and plagiarism-free. By integrating advanced AI models, we aim to streamline the content development process for educators
