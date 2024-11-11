@@ -22,7 +22,17 @@ The primary objective is to reduce the time and effort needed to generate and re
  - Hardware: Minimum 4GB RAM, 50GB storage, Intel i5 (8th gen or higher)
  - Operating System: Windows 10/11 or Linux (Ubuntu)
  - Network: High-speed internet
+## Technical Stack
+- **Software:** Visual Studio Code
+- **Libraries:** FAISS, Google Generative AI (genAI), LangChain, PyPDF2, Streamlit
+- **System Requirements:**
+    - **Hardware:** Minimum 4GB RAM, 50GB storage, Intel i5 (8th gen or higher)
+    - **Operating System:** Windows 10/11 or Linux (Ubuntu)
+    - **Network:** High-speed internet
 ## Modeling & Architecture
+1. **Data Processing:** Text extraction and chunking from uploaded PDFs.
+2. **Embedding Generation:** Text chunks vectorized with Google Generative AI embeddings.
+3. **Question Answering:** Answers generated based on context or general knowledge using LangChain’s QA Chain.
 ![image](https://github.com/user-attachments/assets/0fd7bdc6-3f03-403a-8702-180a8f474328)
 ![image](https://github.com/user-attachments/assets/b220a069-c525-4def-970f-0f0db1efb0c9)
 
